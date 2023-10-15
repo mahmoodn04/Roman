@@ -1,0 +1,12 @@
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\bin\Debug\net7.0\AddNumber.deps.json
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\bin\Debug\net7.0\AddNumber.dll
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\bin\Debug\net7.0\AddNumber.pdb
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.csproj.AssemblyReference.cache
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.AssemblyInfoInputs.cache
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.AssemblyInfo.cs
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.dll
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\refint\AddNumber.dll
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\AddNumber.pdb
+C:\Users\Mahmood\Documents\Projects\Roman\AddNumber\obj\Debug\net7.0\ref\AddNumber.dll
